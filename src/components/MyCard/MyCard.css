@@ -1,0 +1,25 @@
+.card {
+  background-color: #34373e;
+  color: white;
+  font-size: 12px;
+}
+
+.card-text {
+  margin-top: 1.4rem;
+}
+
+.bg-success {
+  margin-top: 0.65rem;
+}
+
+.bg-primary {
+  margin-top: 0.65rem;
+}
+
+.bg-info {
+  margin-top: 0.65rem;
+}
+
+.bg-danger {
+  margin-top: 0.65rem;
+}
